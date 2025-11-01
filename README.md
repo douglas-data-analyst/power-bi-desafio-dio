@@ -25,7 +25,7 @@ A página criada por mim, **"Análise Geográfica e de Segmento"**, utiliza o *d
 ## 📁 Estrutura do Repositório
 
 *   `FinancialSample(1).xlsx`: A base de dados utilizada para a construção do relatório.
-*   `[Seu_Nome_do_Arquivo].pbix`: O arquivo final do Power BI Desktop contendo as três páginas do relatório.
+*   `Análise_Financeira_Global.pbix`: O arquivo final do Power BI Desktop contendo as três páginas do relatório.
 
 ## 🔗 Referências
 
